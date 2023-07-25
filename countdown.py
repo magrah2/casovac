@@ -20,7 +20,7 @@ Config.write()
 from kivy.uix.floatlayout import FloatLayout
 import sys
 Window.fullscreen = True
-Window.maximize()
+Window.maximize()https://kivy.org/doc/stable/guide/environment.html
 
 ######
 # How to use?
